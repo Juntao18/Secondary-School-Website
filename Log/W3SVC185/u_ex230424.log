@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 00:16:16
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 00:16:16 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2357.124+Safari/537.36 - zzhxzx.cn 200 13275 249 562
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 03:00:04
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 03:00:04 GET / - 64.32.22.138 HTTP/1.1 python-httpx/0.23.0 - zzhxzx.cn 200 13275 137 624
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 07:07:29
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 07:07:29 GET / - 64.32.22.138 HTTP/1.1 - - www.zzhxzx.cn 200 13279 39 609
+2023-04-24 07:07:59 GET /img/小学logo.icon - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - www.zzhxzx.cn 404 6880 225 406
+2023-04-24 07:08:02 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - www.zzhxzx.cn 404 4974 204 156
+2023-04-24 07:08:07 GET /sitemap.xml - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_0)+AppleWebKit/535.11+(KHTML,+like+Gecko)+Chrome/17.0.963.56+Safari/535.11 - www.zzhxzx.cn 404 4976 205 156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 09:30:31
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 09:30:31 GET /index.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13279 352 593
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 19:32:46
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 19:32:46 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)++++Chrome/55.0.2883.95+Safari/537.36 - zzhxzx.cn 200 13275 263 671
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 21:29:47
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 21:29:47 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4970 227 406
+2023-04-24 21:29:48 GET /sitemap - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4964 251 171
+2023-04-24 21:29:52 GET /sitemap.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4972 255 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-04-24 21:51:04
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-04-24 21:51:03 GET / - 64.32.22.138 HTTP/1.1 python-httpx/0.23.0 - zzhxzx.cn 200 13275 137 656

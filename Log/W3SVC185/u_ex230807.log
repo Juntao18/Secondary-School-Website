@@ -1,0 +1,48 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 02:27:17
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 02:27:17 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 404 4974 352 407
+2023-08-07 02:27:23 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 307
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 07:28:22
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 07:28:21 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 425
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 07:45:20
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 07:45:19 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 293 366
+2023-08-07 07:46:23 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 316
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 12:49:02
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 12:49:01 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 360 608
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 13:54:38
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 13:54:38 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 360 609
+2023-08-07 13:57:37 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 15:07:57
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 15:07:57 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 1251
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 18:27:14
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 18:27:14 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)++++Chrome/55.0.2883.95+Safari/537.36 - zzhxzx.cn 200 13285 263 499
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 20:16:52
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 20:16:52 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 275 434
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-08-07 23:16:02
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-08-07 23:16:01 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 562

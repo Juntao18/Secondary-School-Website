@@ -1,0 +1,185 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 03:43:19
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 03:43:19 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.71+Safari/537.36 - www.zzhxzx.cn 200 13308 294 578
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 04:47:27
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 04:47:27 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+11;+vivo+1906;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/87.0.4280.141+Mobile+Safari/537.36+VivoBrowser/8.9.0.0 http://www.zzhxzx.cn/ www.zzhxzx.cn 200 13289 410 565
+2023-07-27 04:47:27 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.121+Safari/537.36 http://www.zzhxzx.cn/ www.zzhxzx.cn 200 3934 481 156
+2023-07-27 04:47:28 GET /favicon.ico - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+11;+vivo+1906;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/87.0.4280.141+Mobile+Safari/537.36+VivoBrowser/8.9.0.0 http://www.zzhxzx.cn/favicon.ico www.zzhxzx.cn 404 4976 541 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 05:37:52
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 05:37:52 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 275 574
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 06:10:33
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 06:10:32 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 275 603
+2023-07-27 06:10:48 GET /img/images/1+(1).jfif - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 106499 365 860
+2023-07-27 06:10:57 GET /css/style.css - 40.77.167.124 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 3796 374 264
+2023-07-27 06:11:02 GET /css/css.css - 40.77.167.224 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 6326 305 593
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 06:40:53
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 06:40:53 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4970 227 375
+2023-07-27 06:40:54 GET /sitemap - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4964 251 171
+2023-07-27 06:40:56 GET /sitemap.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4972 255 187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 07:20:41
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 07:20:41 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 562
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 07:46:06
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 07:46:05 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+os+15_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/15.4+Mobile/11D257+Safari/604.1 - zzhxzx.cn 200 13285 450 564
+2023-07-27 07:46:07 GET /img/images/1+(2).jpg - 114.132.203.176 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%282%29.jpg ftp6562477.host122.sanfengyun.cn 200 50852 308 153
+2023-07-27 07:46:07 GET /img/banner2.jpg - 114.132.203.171 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/banner2.jpg ftp6562477.host122.sanfengyun.cn 200 63993 286 153
+2023-07-27 07:46:07 GET /img/images/1+(7).jpg - 114.132.202.237 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%287%29.jpg ftp6562477.host122.sanfengyun.cn 200 184004 308 232
+2023-07-27 07:46:07 GET /img/images/1+(4).jpg - 114.132.202.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%284%29.jpg ftp6562477.host122.sanfengyun.cn 200 170692 308 200
+2023-07-27 07:46:07 GET /img/images/高二1班2.jpg - 114.132.202.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/%E9%AB%98%E4%BA%8C1%E7%8F%AD2.jpg ftp6562477.host122.sanfengyun.cn 200 604164 344 325
+2023-07-27 07:46:07 GET /img/m.jpg - 114.132.203.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/m.jpg ftp6562477.host122.sanfengyun.cn 200 4754 274 31
+2023-07-27 07:46:07 GET /img/tupian.jpg - 114.132.203.10 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/tupian.jpg ftp6562477.host122.sanfengyun.cn 200 27609 284 112
+2023-07-27 07:46:07 GET /img/images/1+(1).jfif - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 - zzhxzx.cn 200 106518 232 801
+2023-07-27 07:46:07 GET /img/images/1+(1).jpg - 114.132.203.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%281%29.jpg ftp6562477.host122.sanfengyun.cn 200 60322 308 153
+2023-07-27 07:46:07 GET /img/images/图书馆看书1.jpg - 114.132.202.237 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9C%8B%E4%B9%A61.jpg ftp6562477.host122.sanfengyun.cn 200 293190 378 262
+2023-07-27 07:46:08 GET /img/baoming.jpg - 114.132.203.10 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/baoming.jpg ftp6562477.host122.sanfengyun.cn 200 11619 286 84
+2023-07-27 07:46:08 GET /img/br.jpg - 114.132.203.171 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/br.jpg ftp6562477.host122.sanfengyun.cn 200 127956 276 194
+2023-07-27 07:46:08 GET /img/images/1+(3).jpg - 114.132.203.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%283%29.jpg ftp6562477.host122.sanfengyun.cn 200 42648 308 160
+2023-07-27 07:46:08 GET /img/banner3.jpg - 114.132.203.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/banner3.jpg ftp6562477.host122.sanfengyun.cn 200 1029630 286 312
+2023-07-27 07:46:09 GET /img/logo.jpg - 114.132.203.10 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/logo.jpg ftp6562477.host122.sanfengyun.cn 200 145868 280 226
+2023-07-27 07:46:09 GET /img/banner.jpg - 114.132.203.176 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/banner.jpg ftp6562477.host122.sanfengyun.cn 200 163841 284 195
+2023-07-27 07:46:09 GET /img/images/1+(5).jpg - 114.132.202.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%285%29.jpg ftp6562477.host122.sanfengyun.cn 200 297282 308 242
+2023-07-27 07:46:10 GET /img/images/1+(1).png - 114.132.202.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%281%29.png ftp6562477.host122.sanfengyun.cn 200 562617 308 3565
+2023-07-27 07:46:10 GET /img/images/1+(6).jpg - 114.132.203.158 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.51+Safari/537.36 http://zzhxzx.cn/img/images/1%20%286%29.jpg ftp6562477.host122.sanfengyun.cn 200 222012 308 234
+2023-07-27 07:46:21 GET /img/banner2.jpg - 106.55.201.95 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 63974 105 170
+2023-07-27 07:46:21 GET /img/tupian.jpg - 42.193.223.220 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 27590 104 127
+2023-07-27 07:46:21 GET /img/images/1+(2).jpg - 106.55.202.107 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 50833 116 205
+2023-07-27 07:46:21 GET /img/images/1+(3).jpg - 106.55.202.45 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 42629 116 189
+2023-07-27 07:46:21 GET /img/banner.jpg - 159.75.78.245 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 163822 104 299
+2023-07-27 07:46:21 GET /img/images/1+(6).jpg - 159.75.144.152 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 221993 116 346
+2023-07-27 07:46:21 GET /img/logo.jpg - 106.52.195.244 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 145849 102 298
+2023-07-27 07:46:21 GET /img/images/图书馆看书1.jpg - 118.126.124.91 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 293171 151 393
+2023-07-27 07:46:21 GET /img/banner3.jpg - 106.52.224.116 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 1029611 105 701
+2023-07-27 07:46:22 GET /img/images/1+(1).jpg - 106.55.201.149 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 60303 116 197
+2023-07-27 07:46:22 GET /img/br.jpg - 112.60.20.74 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 127937 100 322
+2023-07-27 07:46:22 GET /img/images/1+(1).png - 106.52.123.133 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 562598 116 919
+2023-07-27 07:46:22 GET /img/images/高二1班2.jpg - 106.55.201.3 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 604145 134 633
+2023-07-27 07:46:22 GET /img/images/1+(7).jpg - 106.55.200.235 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 183985 116 249
+2023-07-27 07:46:22 GET /img/images/1+(5).jpg - 119.147.3.121 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 297263 116 336
+2023-07-27 07:46:25 GET /img/images/1+(4).jpg - 106.55.201.253 HTTP/1.1 - - ftp6562477.host122.sanfengyun.cn 200 170673 116 208
+2023-07-27 07:46:36 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 - www.zzhxzx.cn 200 13289 428 315
+2023-07-27 07:46:36 GET /css/style.css - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 3796 345 43
+2023-07-27 07:46:36 GET /img/logo.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 145849 390 127
+2023-07-27 07:46:36 GET /css/css.css - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 6326 343 65
+2023-07-27 07:46:36 GET /img/zixun.jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 8809 423 31
+2023-07-27 07:46:38 GET /img/nav.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 6391 421 18
+2023-07-27 07:46:38 GET /css/img/zixun.jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 404 5007 427 31
+2023-07-27 07:46:39 GET /img/banner2.jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 63974 393 117
+2023-07-27 07:46:39 GET /img/baoming.jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 11600 393 31
+2023-07-27 07:46:39 GET /img/xiao.jpg - 180.101.244.14 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/css.css ftp6562477.host122.sanfengyun.cn 200 4472 420 31
+2023-07-27 07:46:39 GET /img/footer.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 4186 424 31
+2023-07-27 07:46:39 GET /img/banner.jpg - 180.101.245.251 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 163822 392 182
+2023-07-27 07:46:39 GET /img/js_bj.jpg - 180.101.245.246 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/css.css ftp6562477.host122.sanfengyun.cn 200 25384 421 78
+2023-07-27 07:46:39 GET /img/br.jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 127937 388 62
+2023-07-27 07:46:39 GET /img/images/1+(2).jpg - 180.101.245.246 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 50833 400 46
+2023-07-27 07:46:39 GET /img/images/1+(3).jpg - 59.83.208.104 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 42629 400 31
+2023-07-27 07:46:39 GET /img/tupian.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 27590 392 81
+2023-07-27 07:46:39 GET /img/images/1+(4).jpg - 180.101.245.251 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 170673 400 65
+2023-07-27 07:46:39 GET /img/images/1+(1).jpg - 180.101.244.14 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 60303 400 96
+2023-07-27 07:46:40 GET /img/images/1+(7).jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 183985 400 84
+2023-07-27 07:46:40 GET /img/images/1+(1).png - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 562598 400 50
+2023-07-27 07:46:40 GET /img/images/1+(1).jfif - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ www.zzhxzx.cn 200 106431 491 854
+2023-07-27 07:46:43 GET /img/banner3.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 1029611 393 3313
+2023-07-27 07:46:43 GET /img/images/图书馆看书1.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 293171 439 62
+2023-07-27 07:46:44 GET /img/images/1+(6).jpg - 180.101.244.14 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 221993 400 3202
+2023-07-27 07:46:44 GET /img/images/1+(5).jpg - 180.101.245.251 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 297263 400 3249
+2023-07-27 07:46:44 GET /img/images/高二1班2.jpg - 180.101.245.247 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://www.zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 604145 422 3250
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 08:39:52
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 08:39:52 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.86+Safari/537.36 - www.zzhxzx.cn 200 13289 211 596
+2023-07-27 08:39:59 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.86+Safari/537.36 - www.zzhxzx.cn 200 4046 211 171
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 10:14:19
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 10:14:18 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 360 625
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 11:10:09
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 11:10:08 GET / - 64.32.22.138 HTTP/1.1 mozilla/5.0+(iphone;+cpu+iphone+os+13_5_1+like+mac+os+x)+applewebkit/605.1.15+(khtml,+like+gecko)+mobile/15e148+micromessenger/7.0.15(0x17000f2b)+nettype/4g+language/zh_cn+miniprogram - www.zzhxzx.cn 200 13289 259 569
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 12:10:09
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 12:10:09 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 578
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 13:02:42
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 13:02:41 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 - zzhxzx.cn 200 13285 424 578
+2023-07-27 13:02:42 GET /css/style.css - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 3796 341 62
+2023-07-27 13:02:42 GET /img/logo.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 145849 386 169
+2023-07-27 13:02:42 GET /img/banner3.jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 1029611 389 203
+2023-07-27 13:02:42 GET /img/br.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 127937 384 62
+2023-07-27 13:02:44 GET /img/m.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 4735 383 31
+2023-07-27 13:02:44 GET /img/baoming.jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 11600 389 15
+2023-07-27 13:02:44 GET /img/banner2.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 63974 389 31
+2023-07-27 13:02:44 GET /img/tupian.jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 27590 388 15
+2023-07-27 13:02:44 GET /img/images/1+(3).jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 42629 396 33
+2023-07-27 13:02:44 GET /img/images/1+(1).jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 60303 396 30
+2023-07-27 13:02:46 GET /img/images/1+(4).jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 170673 396 31
+2023-07-27 13:02:46 GET /img/images/1+(2).jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 50833 396 31
+2023-07-27 13:02:46 GET /img/images/1+(6).jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 221993 396 31
+2023-07-27 13:02:46 GET /img/images/1+(5).jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 297263 396 31
+2023-07-27 13:02:46 GET /img/images/1+(7).jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 183985 396 46
+2023-07-27 13:02:46 GET /img/images/1+(1).png - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 562598 396 31
+2023-07-27 13:02:46 GET /img/images/图书馆看书1.jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 293171 435 62
+2023-07-27 13:02:47 GET /img/images/1+(1).jfif - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ zzhxzx.cn 200 106431 479 829
+2023-07-27 13:02:48 GET /img/banner.jpg - 180.101.245.250 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 163822 388 3341
+2023-07-27 13:02:49 GET /img/images/高二1班2.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 604145 418 3093
+2023-07-27 13:03:11 GET /img/nav.jpg - 59.83.208.103 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 6391 421 25
+2023-07-27 13:03:11 GET /css/img/zixun.jpg - 180.101.245.250 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 404 5007 427 25
+2023-07-27 13:03:11 GET /img/zixun.jpg - 180.101.245.252 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 8809 423 41
+2023-07-27 13:03:11 GET /img/footer.jpg - 180.101.244.13 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+13_7+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/13.1+Mobile/15E148+Safari/604.1 http://ftp6562477.host122.sanfengyun.cn/css/style.css ftp6562477.host122.sanfengyun.cn 200 4186 424 31
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 14:53:35
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 14:53:34 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 671
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 15:15:29
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 15:15:29 GET /robots.txt - 64.32.22.138 HTTP/1.1 python-requests/2.27.1 - www.zzhxzx.cn 404 4974 154 406
+2023-07-27 15:15:41 GET /img/logo.jpg - 20.120.74.197 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 145849 341 1096
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 15:58:47
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 15:58:47 GET /robots.txt - 64.32.22.138 HTTP/1.1 python-requests/2.27.1 - www.zzhxzx.cn 404 4974 154 422
+2023-07-27 15:59:03 GET /img/images/1+(1).jpg - 20.120.74.197 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 60303 351 862
+2023-07-27 16:06:01 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 360 407
+2023-07-27 16:20:51 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 360
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 19:06:48
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 19:06:48 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 304 322 439 315
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-27 23:23:37
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-27 23:23:36 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 404 4974 352 375
+2023-07-27 23:23:42 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 6622 360 374
+2023-07-27 23:27:53 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 320

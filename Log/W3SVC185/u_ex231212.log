@@ -1,0 +1,34 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 03:40:18
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 03:40:18 GET / - 204.188.247.5 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+13_3_1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36 - zzhxzx.cn 200 13305 184 688
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 09:06:16
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 09:06:16 GET /sitemap.xml - 204.188.247.5 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - www.zzhxzx.cn 404 4976 285 499
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 09:36:36
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 09:36:36 GET / - 204.188.247.5 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - zzhxzx.cn 200 13286 270 630
+2023-12-12 09:37:28 GET /css/css.css - 52.167.144.167 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 6326 304 609
+2023-12-12 09:45:48 GET /img/images/1+(1).jfif - 204.188.247.5 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - zzhxzx.cn 200 106499 293 1156
+2023-12-12 09:45:57 GET /css/style.css - 52.167.144.225 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 3796 306 359
+2023-12-12 09:52:44 GET /sitemap.xml - 204.188.247.5 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - www.zzhxzx.cn 404 4976 285 221
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 16:38:02
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 16:38:02 GET /index.html - 204.188.247.5 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - zzhxzx.cn 200 13286 280 749
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 20:07:26
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 20:07:26 GET / - 204.188.247.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/109.0.0.0+Safari/537.36 - zzhxzx.cn 200 13286 296 687
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-12-12 21:25:54
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-12-12 21:25:54 GET / - 204.188.247.5 HTTP/1.1 python-requests/2.27.1 - zzhxzx.cn 200 13286 140 718

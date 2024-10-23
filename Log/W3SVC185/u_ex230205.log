@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-02-05 22:46:16
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-02-05 22:46:16 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4970 227 421
+2023-02-05 22:46:18 GET /sitemap - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4964 251 171
+2023-02-05 22:46:23 GET /sitemap.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - zzhxzx.cn 404 4972 255 171

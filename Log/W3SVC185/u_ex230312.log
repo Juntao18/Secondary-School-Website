@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-03-12 06:30:50
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-03-12 06:30:50 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 - zzhxzx.cn 200 13275 302 500
+2023-03-12 06:30:50 GET /index.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 3839 470 234
+2023-03-12 06:30:52 GET /xinwen+-tel.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 6442 478 421
+2023-03-12 06:30:53 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 9217 471 375
+2023-03-12 06:30:53 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 3839 460 187
+2023-03-12 06:30:54 GET /xinwen+-10.15.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 6046 480 421
+2023-03-12 06:30:54 GET /xinwen+-xueshengship.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 8864 487 359
+2023-03-12 06:30:56 GET /xinwen+-护苗.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 9025 493 375
+2023-03-12 06:30:56 GET /xinwen+-2022年5月给家长的一封信.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 7765 561 375
+2023-03-12 06:30:58 GET /xinwen+-22年安全生产月.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 4942 531 187
+2023-03-12 06:30:59 GET /xinwen+-2022年9月疫情防控应急演练.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:102.0)+Gecko/20100101+Firefox/102.0 http://zzhxzx.cn zzhxzx.cn 200 5875 570 421
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-03-12 22:37:38
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-03-12 22:37:38 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+12;+SM-G781W+Build/SP1A.210812.016;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.71+Mobile+Safari/537.36 - zzhxzx.cn 404 4989 330 281
+2023-03-12 22:37:38 GET /humans.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+12;+SM-G781W+Build/SP1A.210812.016;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.71+Mobile+Safari/537.36 - zzhxzx.cn 404 4989 330 171
+2023-03-12 22:37:39 GET /ads.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+12;+SM-G781W+Build/SP1A.210812.016;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.71+Mobile+Safari/537.36 - zzhxzx.cn 404 4983 327 156
+2023-03-12 22:37:50 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+12;+SM-G781W+Build/SP1A.210812.016;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/103.0.5060.71+Mobile+Safari/537.36 - zzhxzx.cn 200 13294 341 312

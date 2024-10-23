@@ -1,0 +1,71 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 01:33:12
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 01:33:12 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 562
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 02:01:55
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 02:01:54 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 562
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 03:06:50
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 03:06:50 GET /robots.txt - 52.167.144.131 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 404 4993 371 515
+2023-07-07 03:06:56 GET /pdf/郑州华夏中学疫情防控简报10.14-2.jpg - 52.167.144.25 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 388058 417 1812
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 06:41:04
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 06:41:04 GET /pdf/郑州华夏中学疫情防控简报10.14-4.jpg - 52.167.144.156 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - ftp6562477.host122.sanfengyun.cn 200 239251 484 2109
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 07:55:01
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 07:55:00 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 304 321 427 483
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 10:34:07
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 10:34:07 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 438
+2023-07-07 10:35:52 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - zzhxzx.cn 404 4970 225 156
+2023-07-07 10:35:53 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/99.0.4844.84+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - zzhxzx.cn 200 13285 354 328
+2023-07-07 10:35:54 GET /robots.txt - 66.249.79.171 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - ftp6562477.host122.sanfengyun.cn 404 4993 248 171
+2023-07-07 10:35:54 GET /css/css.css - 66.249.79.173 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/114.0.5735.179+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 6326 457 428
+2023-07-07 10:35:55 GET /css/style.css - 66.249.79.173 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/114.0.5735.179+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://zzhxzx.cn/ ftp6562477.host122.sanfengyun.cn 200 3796 459 203
+2023-07-07 10:35:55 GET /img/小学logo.icon - 64.32.22.138 HTTP/1.1 Googlebot-Image/1.0 - zzhxzx.cn 404 6876 206 218
+2023-07-07 10:35:55 GET /favicon.ico - 64.32.22.138 HTTP/1.1 Googlebot-Image/1.0 - zzhxzx.cn 404 4972 186 176
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 12:13:47
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 12:13:46 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 404 4974 352 546
+2023-07-07 12:13:56 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 531
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 14:13:07
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 14:13:06 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/73.0.3683.75+Safari/537.36 - www.zzhxzx.cn 200 9397 284 593
+2023-07-07 14:13:06 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/73.0.3683.75+Safari/537.36 - www.zzhxzx.cn 200 13289 273 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 17:41:38
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 17:41:37 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 578
+2023-07-07 17:46:18 GET /robots.txt - 64.32.22.138 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - zzhxzx.cn 404 4989 322 171
+2023-07-07 17:46:18 GET /humans.txt - 64.32.22.138 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - zzhxzx.cn 404 4989 322 156
+2023-07-07 17:46:19 GET /ads.txt - 64.32.22.138 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - zzhxzx.cn 404 4983 319 156
+2023-07-07 17:46:29 GET / - 64.32.22.138 HTTP/1.1 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - zzhxzx.cn 200 13304 333 318
+2023-07-07 18:02:17 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 304 322 439 221
+2023-07-07 18:08:55 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 312
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 23:30:30
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 23:30:30 GET /xinwen.html - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 9397 353 578
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2023-07-07 23:50:12
+#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
+2023-07-07 23:50:12 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - www.zzhxzx.cn 200 13289 342 328
