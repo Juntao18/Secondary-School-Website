@@ -1,5 +1,0 @@
-#Software: Microsoft Internet Information Services 8.5
-#Version: 1.0
-#Date: 2023-03-31 04:09:42
-#Fields: date time cs-method cs-uri-stem cs-uri-query c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-bytes cs-bytes time-taken
-2023-03-31 04:09:42 GET / - 64.32.22.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)Chrome/74.0.3729.169+Safari/537.36 - zzhxzx.cn 200 13275 247 4937
